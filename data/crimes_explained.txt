@@ -1,0 +1,315 @@
+[CRIME START]
+KEY: House Robbery
+SCENARIO: House Robbery / Burglary
+ARTICLES:
+
+IPC 379: Punishment for theft.
+
+IPC 380: Theft in a dwelling house.
+
+IPC 454: House-trespass or house-breaking to commit an offence.
+
+CrPC 154: Procedure for recording a First Information Report (FIR).
+[CRIME END]
+
+[CRIME START]
+KEY: Mobile Theft
+SCENARIO: Mobile Theft / Snatching
+ARTICLES:
+
+IPC 379: Punishment for theft.
+
+IPC 356: Assault or criminal force in an attempt to commit theft.
+[CRIME END]
+
+[CRIME START]
+KEY: Car/Bike Theft
+SCENARIO: Car/Bike Theft
+ARTICLES:
+
+IPC 379: Punishment for theft.
+
+IPC 411: Dishonestly receiving stolen property.
+[CRIME END]
+
+[CRIME START]
+KEY: Assault
+SCENARIO: Assault / Physical Attack
+ARTICLES:
+
+IPC 323: Punishment for voluntarily causing simple hurt.
+
+IPC 325: Punishment for voluntarily causing grievous hurt (e.g., fractures).
+
+IPC 506: Punishment for criminal intimidation.
+[CRIME END]
+
+[CRIME START]
+KEY: Chain Snatching
+SCENARIO: Chain Snatching / Street Robbery
+ARTICLES:
+
+IPC 392: Punishment for robbery.
+
+IPC 356: Assault or criminal force in an attempt to commit theft.
+[CRIME END]
+
+[CRIME START]
+KEY: Sexual Harassment
+SCENARIO: Sexual Harassment / Eve-Teasing
+ARTICLES:
+
+IPC 354A: Defines and punishes sexual harassment.
+
+IPC 509: Word, gesture, or act intended to insult the modesty of a woman.
+[CRIME END]
+
+[CRIME START]
+KEY: Rape
+SCENARIO: Rape / Sexual Assault
+ARTICLES:
+
+IPC 375: Defines the act of rape.
+
+IPC 376: Specifies the punishment for rape.
+[CRIME END]
+
+[CRIME START]
+KEY: Domestic Violence
+SCENARIO: Domestic Violence
+ARTICLES:
+
+IPC 498A: Cruelty by husband or his relatives.
+
+Domestic Violence Act 2005: A civil law that provides protection and relief to victims.
+[CRIME END]
+
+[CRIME START]
+KEY: Dowry Harassment
+SCENARIO: Dowry Harassment
+ARTICLES:
+
+IPC 498A: Cruelty by husband or his relatives, often linked to dowry demands.
+
+Dowry Prohibition Act 1961: Prohibits the act of giving and taking dowry.
+[CRIME END]
+
+[CRIME START]
+KEY: Kidnapping
+SCENARIO: Kidnapping / Missing Person
+ARTICLES:
+
+IPC 361: Defines kidnapping from lawful guardianship.
+
+IPC 363: Punishment for kidnapping.
+
+IPC 364: Kidnapping or abducting in order to murder.
+[CRIME END]
+
+[CRIME START]
+KEY: Online Banking Fraud
+SCENARIO: Online Banking Fraud / UPI Scam
+ARTICLES:
+
+IT Act Sec 66C: Punishment for identity theft.
+
+IT Act Sec 66D: Punishment for cheating by personation using a computer resource.
+
+IPC 420: Cheating and dishonestly inducing delivery of property.
+[CRIME END]
+
+[CRIME START]
+KEY: Phishing
+SCENARIO: Phishing / Email Scam
+ARTICLES:
+
+IT Act Sec 66D: Punishment for cheating by personation by using computer resource.
+
+IPC 419: Punishment for cheating by personation.
+[CRIME END]
+
+[CRIME START]
+KEY: Identity Theft
+SCENARIO: Identity Theft (fake account, misuse of Aadhaar/PAN)
+ARTICLES:
+
+IT Act 66C: Punishment for identity theft.
+
+IPC 419/468: Cheating by personation / Forgery for the purpose of cheating.
+[CRIME END]
+
+[CRIME START]
+KEY: Online Defamation
+SCENARIO: Online Defamation / Harassment
+ARTICLES:
+
+IPC 499: Defines defamation.
+
+IPC 500: Punishment for defamation.
+
+IPC 354D: Punishes stalking, which can be a form of online harassment.
+[CRIME END]
+
+[CRIME START]
+KEY: Cyberbullying
+SCENARIO: Cyberbullying / Online Stalking
+ARTICLES:
+
+IPC 354D: Punishes the act of stalking.
+
+IT Act 66E: Punishment for violation of privacy.
+[CRIME END]
+
+[CRIME START]
+KEY: Property Dispute
+SCENARIO: Land / Property Dispute (trespass, encroachment)
+ARTICLES:
+
+IPC 441: Defines criminal trespass.
+
+IPC 447: Punishment for criminal trespass.
+[CRIME END]
+
+[CRIME START]
+KEY: Illegal Eviction
+SCENARIO: Illegal Eviction by Landlord
+ARTICLES:
+
+IPC 441: Criminal trespass by the landlord.
+
+Rent Control Acts: State-specific laws that protect tenants from illegal eviction.
+
+CrPC 145: Procedure where a dispute is likely to cause a breach of peace.
+[CRIME END]
+
+[CRIME START]
+KEY: Cheque Bounce
+SCENARIO: Cheque Bounce
+ARTICLES:
+
+NI Act Sec 138: Dishonour of cheque for insufficiency of funds is a criminal offense.
+[CRIME END]
+
+[CRIME START]
+KEY: Forgery
+SCENARIO: Fraudulent Documents / Forgery
+ARTICLES:
+
+IPC 467: Forgery of valuable security, will, etc.
+
+IPC 468: Forgery for the purpose of cheating.
+
+IPC 471: Using a forged document as genuine.
+[CRIME END]
+
+[CRIME START]
+KEY: Bribery
+SCENARIO: Bribery / Corruption Complaint
+ARTICLES:
+
+PCA (Prevention of Corruption Act): The main law dealing with corruption by public servants.
+
+IPC 171E: Punishment for the offense of bribery.
+[CRIME END]
+
+[CRIME START]
+KEY: Road Accident (injury)
+SCENARIO: Road Accident (injury)
+ARTICLES:
+
+IPC 279: Rash driving or riding on a public way.
+
+IPC 337/338: Causing hurt/grievous hurt by an act endangering life.
+
+MV Act Sec 134: Duty of the driver to help and report the accident.
+[CRIME END]
+
+[CRIME START]
+KEY: Road Accident (death)
+SCENARIO: Road Accident (death)
+ARTICLES:
+
+IPC 304A: Causing death by a rash or negligent act.
+[CRIME END]
+
+[CRIME START]
+KEY: Hit-and-Run
+SCENARIO: Hit-and-Run Case
+ARTICLES:
+
+IPC 304A: Causing death by negligence.
+
+IPC 279: Rash driving.
+
+MV Act Sec 134: Duty of the driver to stop and report the accident.
+[CRIME END]
+
+[CRIME START]
+KEY: Arson
+SCENARIO: Fire / Arson
+ARTICLES:
+
+IPC 435: Mischief by fire or explosive substance with intent to cause damage.
+
+IPC 436: Mischief by fire with intent to destroy a a house.
+[CRIME END]
+
+[CRIME START]
+KEY: Medical Negligence
+SCENARIO: Medical Negligence
+ARTICLES:
+
+IPC 304A: Causing death by a rash or negligent act.
+
+Consumer Protection Act: Allows patients to sue for deficient services.
+[CRIME END]
+
+[CRIME START]
+KEY: Child Abuse
+SCENARIO: Child Abuse / Child Labour
+ARTICLES:
+
+JJ Act 2015: Juvenile Justice (Care and Protection of Children) Act.
+
+IPC 75: Punishment for cruelty to a child.
+
+IPC 370: Prohibits trafficking of persons, including children.
+[CRIME END]
+
+[CRIME START]
+KEY: Elder Abuse
+SCENARIO: Elder Abuse / Neglect
+ARTICLES:
+
+Maintenance and Welfare of Parents and Senior Citizens Act 2007: Provides for the maintenance and protection of elders.
+[CRIME END]
+
+[CRIME START]
+KEY: Marriage Fraud
+SCENARIO: Marriage Fraud (fake promises, NRI fraud)
+ARTICLES:
+
+IPC 417: Punishment for cheating.
+
+IPC 420: Cheating and dishonestly inducing delivery of property.
+[CRIME END]
+
+[CRIME START]
+KEY: Workplace Harassment
+SCENARIO: Workplace Harassment (POSH Act)
+ARTICLES:
+
+IPC 354A: Defines and punishes sexual harassment.
+
+POSH Act 2013: The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act.
+[CRIME END]
+
+[CRIME START]
+KEY: Police Harassment
+SCENARIO: Police Harassment / Refusal to File FIR
+ARTICLES:
+
+CrPC 154(3): Your right to send a complaint to the Superintendent of Police if the station officer refuses.
+
+CrPC 156(3): Your right to complain to a Magistrate, who can order an investigation.
+[CRIME END]
