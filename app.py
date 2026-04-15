@@ -24,10 +24,10 @@ app = Flask(__name__)
 # ---------- Config ----------
 # Using the model list you provided.
 PREFERRED_MODELS = [
-    "models/gemini-2.5-pro",
-    "models/gemini-pro-latest",
-    "models/gemini-2.5-flash",
-    "models/gemini-flash-latest"
+    "models/gemini-1.5-flash",
+    "models/gemini-flash-latest",
+    "models/gemini-1.5-pro",
+    "models/gemini-pro-latest"
 ]
 CRIME_DATA_PATH = "data/crimes_explained.txt"
 FALLBACK_CRIME_DATA_PATH = "data/crimes.txt"
